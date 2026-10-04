@@ -37,7 +37,7 @@ p {
     background-color: black;
     font-size: 18px;
     direction: ltr;
-}
+    text-align: left;
 
 footer img {
     width: 40px;
